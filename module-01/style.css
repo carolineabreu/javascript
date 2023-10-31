@@ -1,0 +1,11 @@
+input,
+button,
+.container {
+  margin: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#result {
+  margin-top: 20px;
+}
